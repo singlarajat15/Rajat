@@ -1,0 +1,22 @@
+<html>
+<body>
+<div class="smoke"></div>
+<div class="dancing-line"></div>
+ 
+  
+  <video autoplay muted loop id="myVideo">
+  <source src="https://youtu.be/kDBxnjwq0To" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+  
+  <div>
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    <img src="https://i.ibb.co/C72SB2N/pumpkin.png" class="pumpkin">
+    
+  </div>
+</body>
